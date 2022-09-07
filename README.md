@@ -3,7 +3,7 @@ These are some selected projects from FCC that are very good for beginners to ex
 
 ## Nutrition
 
-Useful techniques: typography, intelligent use of \<div> elements.
+Useful techniques: typography, intelligent use of \<div> elements, float.
 
 ![Screenshot](nutrition/screenshot.jpg)
 
@@ -30,3 +30,28 @@ Useful techniques: positioning, making complex design using HTML elements.
 Useful techniques: use of psuedo-elements, positioning.
 
 ![Screenshot](piano/screenshot.jpg)
+
+## City Skyline
+
+Useful techniques: Representing a responsive art, various gradients, CSS variables, day-night mode.
+
+![Screenshot](city-skyline/screenshot1.jpg)
+![Screenshot](city-skyline/screenshot2.jpg)
+
+## Magazine
+
+Useful techniques: grid, column-layout, typography. float.
+
+![Screenshot](magazine/screenshot.jpg)
+
+## Ferris Wheel
+
+Useful techniques: animation, transformation.
+
+![Screenshot](ferris-wheel/screenshot.jpg)
+
+## Penguin
+
+Useful techniques: Building a whole penguin, animation, transformation, transition.
+
+![Screenshot](penguin/screenshot.jpg)
